@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,KACE,UAAW,CACX,WAAY,CACZ,iBAAkB,CAEnB,cAGC,iBAAkB,CAClB,OAAQ,CACT,GAGC,YAAa","file":"main.1e0f66d7.chunk.css","sourcesContent":[".App {\n  width: 50vw;\n  margin: auto;\n  position: relative;\n\n}\n\n.list__button {\n  position: absolute;\n  right: 0;\n}\n\nli {\n  padding: 10px;\n}\n"]}
